@@ -1,1 +1,1 @@
-<h1>Text Preprocessing</h1>
+<h1 align="center">Text Preprocessing</h1>
